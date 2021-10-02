@@ -7,7 +7,7 @@
     <groupId>com.docsconsole.tutorials</groupId>
     <artifactId>Java-Method-Overriding-Example-App</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Java-Collections-Master</name>
+    <name>Java-Method-Overriding-Example-App</name>
     <description>Java-Method-Overriding-Example-App</description>
 
     <properties>
